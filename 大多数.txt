@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 发送到发送到
 
 当时的发生的水电费水电费
+=======
+锟斤拷锟酵碉拷锟斤拷锟酵碉拷
+sdfsdf
+
+鏄殑鍙戦�佸埌 
+姘寸數璐规按鐢佃垂 
+>>>>>>> branch 'master' of https://github.com/ljcservice/test
